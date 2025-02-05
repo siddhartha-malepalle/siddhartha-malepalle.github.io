@@ -6,7 +6,7 @@ Hi, I'm **Siddhartha Malepalle**, an aspiring Data Analyst passionate about extr
 
 ## Projects  
 🔹 [Retail Sales Analysis](https://github.com/siddhartha-malepalle/Data-Analytics-Projects)  
-🔹 More projects coming soon...  
+🔹 [Auto Capturing Selfie by detecting Smile Using Computer Vision](https://github.com/siddhartha-malepalle/Auto-Capturing-Selfie-by-detecting-Smile-Using-Computer-Vision)
 
 ## Certifications
 🔹Data Analytics and Visualization Job Simulation by Accenture
