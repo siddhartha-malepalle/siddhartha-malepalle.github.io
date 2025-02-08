@@ -9,9 +9,9 @@ Hi, I'm **Siddhartha Malepalle**, an aspiring Data Analyst passionate about extr
 🔹 [Auto Capturing Selfie by detecting Smile Using Computer Vision](https://github.com/siddhartha-malepalle/Auto-Capturing-Selfie-by-detecting-Smile-Using-Computer-Vision)
 
 ## Certifications
-🔹Data Analytics and Visualization Job Simulation by Accenture
- -Completed a simulation focused on advising a hypothetical social media client, as a Data Analyst at Accenture.
-🔹Python 101 for Data Science by IBM
+🔹Data Analytics and Visualization Job Simulation by Accenture\n
+ -Completed a simulation focused on advising a hypothetical social media client, as a Data Analyst at Accenture.\n
+🔹Python 101 for Data Science by IBM\n
  -explored key libraries like Pandas and Matplotlib, and gained hands-on experience with data manipulation and visualization.
 
 ## Skills  
