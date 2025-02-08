@@ -10,9 +10,11 @@ Hi, I'm **Siddhartha Malepalle**, an aspiring Data Analyst passionate about extr
 
 ## Certifications
 🔹Data Analytics and Visualization Job Simulation by Accenture
+
  -Completed a simulation focused on advising a hypothetical social media client, as a Data Analyst at Accenture.
  
 🔹Python 101 for Data Science by IBM
+
  -explored key libraries like Pandas and Matplotlib, and gained hands-on experience with data manipulation and visualization.
 
 ## Skills  
