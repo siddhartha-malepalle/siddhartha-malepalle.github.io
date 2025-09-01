@@ -2,7 +2,7 @@
 # Welcome to My Portfolio 👋  
 
 ## About Me  
-Hi, I'm **Siddhartha Malepalle**, an aspiring Data Analyst passionate about extracting insights from data and creating impactful visualizations.  
+Hi, I'm **Siddhartha Malepalle**, an aspiring Data Scientist passionate about extracting insights from data and creating impactful visualizations.  
 
 ## Projects  
 🔹 [Retail Sales Analysis](https://github.com/siddhartha-malepalle/Data-Analytics-Projects)  
