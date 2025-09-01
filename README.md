@@ -9,7 +9,11 @@ Hi, I'm **Siddhartha Malepalle**, an aspiring Data Scientist passionate about ex
 ## Projects  
 🔹 [Mastercard Stock Price Prediction (Work in Progress)](https://github.com/siddhartha-malepalle/Mastercard-Stock-Price-Analysis-Forecasting/tree/main)  
    - Predictive modeling of Mastercard’s stock prices using **Linear Regression** and **Random Forest**, with visualizations and evaluation metrics (R², MAE).  
-   - Focused on improving model performance with feature engineering and advanced ML models.  
+   - Focused on improving model performance with feature engineering and advanced ML models.
+
+🔹 [Banking Risk Analysis](https://github.com/siddhartha-malepalle/Banking-Risk-Analysis)  
+   - This project involves the creation of an **interactive Power BI dashboard** to analyze and visualize key banking performance metrics.
+   - The dashboard provides actionable insights into **loan distribution, deposit trends, and client demographics**, enabling stakeholders to make informed, data-driven decisions.  
 
 🔹 [Retail Sales Analysis](https://github.com/siddhartha-malepalle/Data-Analytics-Projects)  
    - Conducted sales trend analysis, created dashboards, and derived actionable insights using **Python, Pandas, and Power BI**.  
@@ -23,13 +27,11 @@ Hi, I'm **Siddhartha Malepalle**, an aspiring Data Scientist passionate about ex
 🔹 **Data Analytics and Visualization Job Simulation** – Accenture  
    - Completed a simulation advising a hypothetical social media client as a Data Analyst.  
 
-🔹 **Python 101 for Data Science** – IBM  
-   - Gained hands-on experience in **Pandas, Matplotlib**, and data manipulation & visualization.  
 
 ---
 
 ## Skills  
-✅ SQL | ✅ Python | ✅ Pandas | ✅ Power BI | ✅ Data Visualization | ✅ Machine Learning  
+✅ SQL | ✅ Python | ✅ Pandas | ✅ Power BI | ✅ Data Visualization | ✅ Data Wrangling | ✅ Machine Learning  
 
 ---
 
